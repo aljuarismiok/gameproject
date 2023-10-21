@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://b4dkejolf4d2c"]
+
+[ext_resource type="PackedScene" uid="uid://py6wq03x1oln" path="res://assets/models/tree_stump.glb" id="1_khtb6"]
+
+[node name="Node3D" type="Node3D"]
+
+[node name="tree_stump" parent="." instance=ExtResource("1_khtb6")]

@@ -1,0 +1,6 @@
+res://escenas/mundo_main.tscn
+res://addons/proton_scatter/demos/assets/materials/m_pine_leaves.tres
+res://addons/proton_scatter/demos/assets/materials/m_bush.tres
+res://escenas/player.tscn
+res://escenas/mounstro.tscn
+res://scripts/player.gd
